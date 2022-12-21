@@ -20,6 +20,12 @@
 > **Note**
 > 
 > В данном репозитории содержатся все труды нашей дружной команды, начиная от кода, заканчивая презентациями, а также в релизах можно найти готовые билды решений
-	
 
 
+ - Ссылка на видео в [YouTube](https://youtu.be/UC9Bcb7K33E "Видео").
+ - [Командный отчёт](https://github.com/yashelter/VRKT_EMPTY/blob/main/Cassini%20-%20Huygens.docx "Командный отчёт").
+ - [Личные отчёты участников команды](https://github.com/yashelter/VRKT_EMPTY/blob/main/ "Личные отчёты").
+ - [Код програмных расчётов](https://github.com/yashelter/VRKT_EMPTY/blob/main/EmptyVRKT.cpp "Просто код").
+ - [Файл проекта KSP](https://github.com/yashelter/VRKT_EMPTY/tree/main/KSP-save "KSP").
+ - [Программа визуализации на Unity](https://github.com/yashelter/VRKT_EMPTY/tree/main/Visualization-Program-Unity/Assets "Программа на Unity").
+ - [Презентация](https://github.com/yashelter/VRKT_EMPTY/blob/main/CassiniPres.pptx "Презентация").
