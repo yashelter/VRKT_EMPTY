@@ -22,7 +22,7 @@
 > В данном репозитории содержатся все труды нашей дружной команды, начиная от кода, заканчивая презентациями, а также в релизах можно найти готовые билды решений
 
 
- - Ссылка на видео в [YouTube](https://youtu.be/UC9Bcb7K33E "Видео").
+ - Ссылка на видео в [YouTube](https://youtu.be/0_bCFyEEGsk "Видео").
  - [Командный отчёт](https://github.com/yashelter/VRKT_EMPTY/blob/main/Cassini%20-%20Huygens.docx "Командный отчёт").
  - [Личные отчёты участников команды](https://github.com/yashelter/VRKT_EMPTY/blob/main/ "Личные отчёты").
  - [Код програмных расчётов](https://github.com/yashelter/VRKT_EMPTY/blob/main/EmptyVRKT.cpp "Просто код").
