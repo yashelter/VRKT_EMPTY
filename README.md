@@ -24,7 +24,7 @@
 
  - Ссылка на видео в [YouTube](https://youtu.be/0_bCFyEEGsk "Видео").
  - [Командный отчёт](https://github.com/yashelter/VRKT_EMPTY/blob/main/Cassini%20-%20Huygens.docx "Командный отчёт").
- - [Личные отчёты участников команды](https://github.com/yashelter/VRKT_EMPTY/blob/main/ "Личные отчёты").
+ - [Личные отчёты участников команды](https://github.com/yashelter/VRKT_EMPTY/tree/main/Reports "Личные отчёты").
  - [Код програмных расчётов](https://github.com/yashelter/VRKT_EMPTY/blob/main/EmptyVRKT.cpp "Просто код").
  - [Файл проекта KSP](https://github.com/yashelter/VRKT_EMPTY/tree/main/KSP-save "KSP").
  - [Программа визуализации на Unity](https://github.com/yashelter/VRKT_EMPTY/tree/main/Visualization-Program-Unity/Assets "Программа на Unity").
